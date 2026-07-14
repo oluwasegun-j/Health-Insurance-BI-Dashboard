@@ -375,10 +375,15 @@ health-insurance-bi-dashboard/
 
 ## 👤 About the Author
 
-**Oluwasegun Shobowale**
-*Business Intelligence Analyst · Healthcare & Insurance Analytics*
+### Oluwasegun Shobowale
 
-Oluwasegun designs and builds data analytics solutions and training curricula focused on healthcare and insurance domains, with hands-on expertise across SQL, Power BI, DAX, and data modeling. His work spans hospital operations analytics, HMO portfolio performance, and dimensional modeling for multi-country health datasets — combining technical rigor with a consulting-style focus on business impact and clear communication.
+*Business Intelligence Analyst | SQL | Power BI | Data Analytics | Business Intelligence*
+
+I'm a Business Intelligence and Data Analytics professional passionate about transforming complex data into actionable insights. I build interactive dashboards, develop scalable data models, and create analytical solutions that help organizations make informed business decisions.
+
+My experience spans healthcare, insurance, public health, and business analytics, with expertise in SQL, Power BI, DAX, Power Query, and dimensional data modeling. Beyond analytics, I enjoy teaching and mentoring aspiring data professionals, designing real-world case studies, and helping organizations use data more effectively.
+
+I'm currently focused on building practical analytics solutions and sharing projects that demonstrate how data can solve real business problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oluwasegun-j)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segunshobo/)
