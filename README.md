@@ -120,7 +120,6 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 | **KPI Cards** | Executive-level card visuals surfacing headline metrics on every page |
 | **Interactive Filtering** | Slicers for Year, Quarter, Gender, Scheme, and Member Status applied consistently across pages |
 | **Navigation** | A persistent top navigation bar linking all six report pages |
-| **Bookmarks & Drill-through** | Used to support guided navigation between summary and detail views (e.g., Top Providers → Provider Detail) |
 | **Performance Optimization** | Star schema (vs. a flat single table) to reduce model size and improve query folding and refresh performance |
 
 <br>
