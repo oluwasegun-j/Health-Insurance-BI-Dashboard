@@ -191,7 +191,7 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Surfaces which demographic segments carry disproportionate claims risk (for example, the 26–35 age band shows the highest incurred claims of any age group), informing pricing and plan design by segment.
 
-<img src="assets/screenshots/03-demography-claim-trends.png" alt="Demography & Claim Trends" width="900">
+<img src="assets/screenshots/03-demography-claim-trend.png" alt="Demography & Claim Trends" width="900">
 
 </details>
 
