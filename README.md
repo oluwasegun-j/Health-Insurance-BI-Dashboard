@@ -147,7 +147,7 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Gives executives an immediate read on portfolio profitability and whether the book is trending toward an underwriting loss (COR approaching or exceeding 100%).
 
-**Screenshot:** `assets/screenshots/01-premium-utilization-summary.png`
+<img src="assets/screenshots/01-premium-utilization-summary.png" alt="Premium & Utilization Summary" width="900">
 
 </details>
 
@@ -169,7 +169,7 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Identifies which providers and service points are generating the highest utilization, supporting network management and cost-containment conversations.
 
-**Screenshot:** `assets/screenshots/02-utilization-overview.png`
+<img src="assets/screenshots/02-utilization-overview.png" alt="Utilization Overview Dashboard" width="900">
 
 </details>
 
@@ -191,7 +191,7 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Surfaces which demographic segments carry disproportionate claims risk (for example, the 26–35 age band shows the highest incurred claims of any age group), informing pricing and plan design by segment.
 
-**Screenshot:** `assets/screenshots/03-demography-claim-trend.png`
+<img src="assets/screenshots/03-demography-claim-trends.png" alt="Demography & Claim Trends" width="900">
 
 </details>
 
@@ -213,7 +213,8 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Outpatient care is the single largest service-type cost driver, followed by inpatient care — a clear signal for where cost-containment and network-negotiation efforts would have the greatest impact.
 
-**Screenshot:** `assets/screenshots/04-top-providers-service-type.png`
+<img src="assets/screenshots/04-top-providers-service-type.png" alt="Top Providers & Service Type Dashboard" width="900">
+
 
 </details>
 
@@ -234,7 +235,8 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Medication and Surgeries are the two highest-cost benefit categories in the portfolio — evidence that can directly inform co-pay design, pre-authorization rules, and pharmacy benefit management strategy.
 
-**Screenshot:** `assets/screenshots/05-benefits-analysis.png`
+<img src="assets/screenshots/05-benefits-analysis.png" alt="Benefits Analysis Dashboard" width="900">
+
 
 </details>
 
@@ -255,7 +257,7 @@ The model follows a **star schema** design: a central `Claims` fact table connec
 
 **Business Value:** Malaria and digestive-system conditions rank among the top cost drivers — both are meaningfully addressable through preventive health programs, giving the HMO a direct, data-backed case for investing in member wellness initiatives.
 
-**Screenshot:** `assets/screenshots/06-diagnosis-analysis.png`
+<img src="assets/screenshots/06-diagnosis-analysis.png" alt="Diagnosis Analysis Dashboard" width="900">
 
 </details>
 
